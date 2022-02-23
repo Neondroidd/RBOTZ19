@@ -2800,7 +2800,7 @@ ${setting.linkgrub3}
 ┃║⛇ *${prefix}hadist*
 ┃╚══════════════════════
 ┣━━━━━━━━━━━━━━━━━━━━━━
-┃╔═❲ *ISLAMIC* ❳═>
+┃╔═❲ *NSFW* ❳═>
 ┃║⛇ *${prefix}yuri*
 ┃║⛇ *${prefix}thighs*
 ┃║⛇ *${prefix}pussy*
